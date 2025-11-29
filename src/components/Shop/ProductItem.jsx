@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import ProductCard from '../UI/productCard'
+import ProductCard from '../UI/ProductCard'
 import axios from 'axios'
 
 
